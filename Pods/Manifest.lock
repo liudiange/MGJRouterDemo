@@ -1,0 +1,23 @@
+PODS:
+  - A (0.1.0)
+  - MGJRouter (0.10.0)
+
+DEPENDENCIES:
+  - A (from `../A`)
+  - MGJRouter
+
+SPEC REPOS:
+  trunk:
+    - MGJRouter
+
+EXTERNAL SOURCES:
+  A:
+    :path: "../A"
+
+SPEC CHECKSUMS:
+  A: a2fdd5eb39f82b270d87d5c10debaaecef1707ed
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+
+PODFILE CHECKSUM: 8329409e253d31dc1504d761f5aa9f5028f9dbf9
+
+COCOAPODS: 1.9.1

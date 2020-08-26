@@ -1,0 +1,22 @@
+{
+  "name": "A",
+  "version": "0.1.0",
+  "summary": "description",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shaoyeliudiange@163.com/A",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shaoyeliudiange@163.com": "hzycode@163.com"
+  },
+  "source": {
+    "git": "https://github.com/shaoyeliudiange@163.com/A.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "A/Classes/**/*"
+}
